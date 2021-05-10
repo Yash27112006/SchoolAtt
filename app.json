@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "school-attendance",
+    "slug": "snack-dca52b73-2006-4615-807e-a6858b177b9a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android":{
+      "package": "com.yash.schoolAtt"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
